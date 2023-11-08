@@ -10,8 +10,8 @@
             "freq": 923000000,
             "rssi_offset": -166.0,
             "tx_enable": true,
-            "tx_freq_min": 923000000,
-            "tx_freq_max": 928000000
+            "tx_freq_min": 920000000,
+            "tx_freq_max": 923200000
         },
         "radio_1": {
             "enable": true,
