@@ -21,55 +21,55 @@
             "tx_enable": false
         },
         "chan_multiSF_0": {
-            "desc": "Lora MAC, 125kHz, all SF, 903.9 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 923.2 MHz",
             "enable": true,
             "radio": 0,
             "if": -400000
         },
         "chan_multiSF_1": {
-            "desc": "Lora MAC, 125kHz, all SF, 904.1 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 923.4 MHz",
             "enable": true,
             "radio": 0,
             "if": -200000
         },
         "chan_multiSF_2": {
-            "desc": "Lora MAC, 125kHz, all SF, 904.3 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 922.2 MHz",
             "enable": true,
             "radio": 0,
             "if": 0
         },
         "chan_multiSF_3": {
-            "desc": "Lora MAC, 125kHz, all SF, 904.5 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 922.4 MHz",
             "enable": true,
             "radio": 0,
             "if": 200000
         },
         "chan_multiSF_4": {
-            "desc": "Lora MAC, 125kHz, all SF, 904.7 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 922.6 MHz",
             "enable": true,
             "radio": 1,
             "if": -300000
         },
         "chan_multiSF_5": {
-            "desc": "Lora MAC, 125kHz, all SF, 904.9 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 922.8 MHz",
             "enable": true,
             "radio": 1,
             "if": -100000
         },
         "chan_multiSF_6": {
-            "desc": "Lora MAC, 125kHz, all SF, 905.1 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 923.0 MHz",
             "enable": true,
             "radio": 1,
             "if": 100000
         },
         "chan_multiSF_7": {
-            "desc": "Lora MAC, 125kHz, all SF, 905.3 MHz",
+            "desc": "Lora MAC, 125kHz, all SF, 922.0 MHz",
             "enable": true,
             "radio": 1,
             "if": 300000
         },
         "chan_Lora_std": {
-            "desc": "Lora MAC, 500kHz, SF8, 904.6 MHz",
+            "desc": "Lora MAC, 500kHz, SF8, 922.1 MHz",
             "enable": true,
             "radio": 0,
             "if": 300000,
@@ -77,7 +77,7 @@
             "spread_factor": 8
         },
         "chan_FSK": {
-            "desc": "FSK 100kbps channel, 903.0 MHz",
+            "desc": "FSK 100kbps channel, 921.8 MHz",
             "enable": false,
             "radio": 0,
             "if": 300000,
